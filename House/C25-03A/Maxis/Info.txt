@@ -1,0 +1,9 @@
+GateWay : 192.168.1.254
+
+ACCT # : [ 2172310902]
+
+Price : 147 /month
+
+Start Date : 14/9/2017 -14/9/2019  2 yrs contract
+
+Penalities : RM500

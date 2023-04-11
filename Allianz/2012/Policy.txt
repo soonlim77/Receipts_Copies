@@ -1,0 +1,12 @@
+policy # = 010-367-8393
+
+
+Only go to panel clinic
+-----------------------------------
+Hospitalization = 75000 / year   
+                            750000 / life
+
+36 Diease = 100000 / year
+                      1000000 / life
+
+www.allianz.com.my

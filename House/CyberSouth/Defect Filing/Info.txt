@@ -1,0 +1,7 @@
+
+Login ID = 771213016571
+Password = mayyee88
+
+Please click below link to access myPortal @ MCT
+
+http://myportal.mct.com.my/mod/sys/Login.aspx
