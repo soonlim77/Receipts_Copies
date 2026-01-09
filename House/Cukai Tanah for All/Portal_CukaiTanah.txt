@@ -2,6 +2,6 @@ https://etanah.selangor.gov.my/etanah-awam/AwamLoginForm.xhtml
 login= soonlim@gmail.com 
   pwd= Enunst@88
 
-fkR$5vPt9
+
 
 
