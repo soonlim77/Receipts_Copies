@@ -1,9 +1,9 @@
 CYBER SOUTH
 ===========
 
-CUKAI PINTU   (rm 198)
+CUKAI PINTU   (rm 240)
 ==============
-https://ekl.mpsepang.gov.my/ekl/Public/Tax
+https://ekl.mpsepang.gov.my/sso/serverpages/Members/Main.aspx
 
 pwd=Enunst@88
 
